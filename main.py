@@ -1,4 +1,4 @@
-print("""What a type of rio's Brazilian people are you?
+print("""What a type of Rio's Brazilian people are you?
 Cria or Gringo, you're welcome in same way!""")
 print(
     """\nAnswer Answer ‘yes’ or ‘no’ pecifically to the questions to find out!
